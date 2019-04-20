@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.20",
+	"EngineAssociation": "4.22",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -16,6 +16,10 @@
 	"Plugins": [
 		{
 			"Name": "AdvancedSessions",
+			"Enabled": true
+		},
+		{
+			"Name": "OceanPlugin",
 			"Enabled": true
 		}
 	]
